@@ -204,6 +204,12 @@
             <version>5.14.1</version>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>io.mosip.certify</groupId>
+            <artifactId>mock-certify-plugin</artifactId>
+            <version>0.5.0</version>
+        </dependency>
         <!-- https://mvnrepository.com/artifact/io.mosip.certify/mock-certify-plugin -->
     </dependencies>
 
